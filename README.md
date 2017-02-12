@@ -1,3 +1,3 @@
 # rep1
-test reposition
+test repository
 I've made several changes
